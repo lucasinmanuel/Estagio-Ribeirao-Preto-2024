@@ -80,3 +80,25 @@ e) 1, 1, 2, 3, 5, 8, 13
 f) 2,10, 12, 16, 17, 18, 19, 20
   </p></li>
 </ul>
+
+<b>EXC04</b>
+<ul>
+  <li>
+    <p>
+      4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
+
+Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
+    </p>
+  </li>
+  <li><p>
+    <b>RESPOSTA: </b>
+
+  Eu ligaria o primeiro interruptor, esperaria alguns minutos e desligaria o primeiro e ligaria o segundo.
+  
+  Primeiro interruptor: O quarto com a luz apagada e lampada quente;
+  
+  Segundo interruptor: O quarto com a luz ligada;
+  
+  Terceiro interruptor: O quarto com a luz apagada e lampada fria;
+  </p></li>
+</ul>
