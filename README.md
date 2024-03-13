@@ -102,3 +102,20 @@ Como você faria para descobrir, usando apenas duas idas até uma das salas das 
   Terceiro interruptor: O quarto com a luz apagada e lampada fria;
   </p></li>
 </ul>
+
+<b>EXC01</b>
+<ul>
+  <li>
+    <p>
+      5) Escreva um programa que inverta os caracteres de um string.
+
+
+IMPORTANTE:
+
+a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
+
+b) Evite usar funções prontas, como, por exemplo, reverse;
+    </p>
+  </li>
+  <li><a href="./EXC05/Main.java">Link</a></li>
+</ul>
