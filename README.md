@@ -24,7 +24,7 @@ Ao final do processamento, qual será o valor da variável SOMA?
     </p>
   </li>
   <li><b>RESPOSTA: </b>91</li>
-  <li><a href="./EXC01">Link</a></li>
+  <li><a href="./EXC01/Main.java">Link</a></li>
 </ul>
 
 <b>EXC02</b>
@@ -40,7 +40,7 @@ IMPORTANTE:
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
     </p>
   </li>
-  <li><a href="./EXC02">Link</a></li>
+  <li><a href="./EXC02/Main.java">Link</a></li>
 </ul>
 
 <b>EXC03</b>
