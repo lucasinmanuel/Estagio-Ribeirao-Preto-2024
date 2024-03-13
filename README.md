@@ -23,5 +23,6 @@ imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
     </p>
   </li>
+  <li><b>RESPOSTA: </b>91</li>
   <li><a href="./exc01">Link</a></li>
 </ul>
